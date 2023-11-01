@@ -1,0 +1,92 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.teacher"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:7:5-47
+8        android:minSdkVersion="19"
+8-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:7:5-47
+9        android:targetSdkVersion="20" />
+9-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:7:15-44
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:9:5-80
+11-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:9:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:10:5-81
+12-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:10:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:11:5-67
+13-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:11:22-64
+14    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+14-->[com.lzy.net:okgo:3.0.4] G:\.gradle\caches\transforms-2\files-2.1\22f9777967ca2025b1cb258d9a18eb61\okgo-3.0.4\AndroidManifest.xml:29:5-84
+14-->[com.lzy.net:okgo:3.0.4] G:\.gradle\caches\transforms-2\files-2.1\22f9777967ca2025b1cb258d9a18eb61\okgo-3.0.4\AndroidManifest.xml:29:22-81
+15
+16    <application
+16-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:13:5-58:19
+17        android:name="com.example.teacher.MyApplication"
+17-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:14:9-38
+18        android:allowBackup="true"
+18-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:15:9-35
+19        android:debuggable="true"
+20        android:icon="@drawable/ic_launcher"
+20-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:16:9-45
+21        android:label="@string/app_name"
+21-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:17:9-41
+22        android:theme="@style/AppTheme" >
+22-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:18:9-40
+23        <activity
+23-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:19:9-27:20
+24            android:name="com.example.teacher.LogoActivity"
+24-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:20:13-41
+25            android:label="@string/app_name" >
+25-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:21:13-45
+26            <intent-filter>
+26-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:22:13-26:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:23:17-69
+27-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:23:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:25:17-77
+29-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:25:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity android:name="com.example.teacher.ApplyListActivityForTeacher2" />
+32-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:28:9-29:59
+32-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:29:13-57
+33        <activity android:name="com.example.teacher.TeacherMainActivity" />
+33-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:31:9-32:50
+33-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:32:13-48
+34        <activity android:name="com.example.teacher.LoginActivity" />
+34-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:33:9-34:44
+34-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:34:13-42
+35        <activity android:name="com.example.teacher.CourseActivityForTeacher" />
+35-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:37:9-62
+35-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:37:19-59
+36        <activity android:name="com.example.teacher.ApplyListActivityForTeacher" />
+36-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:40:9-41:58
+36-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:41:13-56
+37        <activity android:name="com.example.teacher.TeacherMsgActivity" />
+37-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:43:9-44:68
+37-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:44:13-66
+38        <activity android:name="com.example.teacher.ChangePasswordActivity" />
+38-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:45:9-46:72
+38-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:46:13-70
+39        <activity android:name="com.example.teacher.StudentMsgActivity" />
+39-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:48:9-49:68
+39-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:49:13-66
+40        <activity android:name="com.example.teacher.StudentMainActivity" />
+40-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:50:9-51:69
+40-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:51:13-67
+41        <activity android:name="com.example.teacher.CourseActivityForStudent" />
+41-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:52:9-53:74
+41-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:53:13-72
+42        <activity android:name="com.example.teacher.ApplyListActivityForStudent" />
+42-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:54:9-55:77
+42-->D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:55:13-75
+43    </application>
+44
+45</manifest>

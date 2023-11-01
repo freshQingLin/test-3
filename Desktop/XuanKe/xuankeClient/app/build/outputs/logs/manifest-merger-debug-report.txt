@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:2:1-60:12
+MERGED from [com.android.support:support-v4:20.0.0] G:\.gradle\caches\transforms-2\files-2.1\1397eebbc4fd8d54cf630276e80461e8\support-v4-20.0.0\AndroidManifest.xml:15:1-18:12
+MERGED from [com.lzy.net:okgo:3.0.4] G:\.gradle\caches\transforms-2\files-2.1\22f9777967ca2025b1cb258d9a18eb61\okgo-3.0.4\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:2:1-60:12
+	package
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:7:5-47
+MERGED from [com.android.support:support-v4:20.0.0] G:\.gradle\caches\transforms-2\files-2.1\1397eebbc4fd8d54cf630276e80461e8\support-v4-20.0.0\AndroidManifest.xml:16:5-42
+MERGED from [com.android.support:support-v4:20.0.0] G:\.gradle\caches\transforms-2\files-2.1\1397eebbc4fd8d54cf630276e80461e8\support-v4-20.0.0\AndroidManifest.xml:16:5-42
+MERGED from [com.lzy.net:okgo:3.0.4] G:\.gradle\caches\transforms-2\files-2.1\22f9777967ca2025b1cb258d9a18eb61\okgo-3.0.4\AndroidManifest.xml:22:5-24:41
+MERGED from [com.lzy.net:okgo:3.0.4] G:\.gradle\caches\transforms-2\files-2.1\22f9777967ca2025b1cb258d9a18eb61\okgo-3.0.4\AndroidManifest.xml:22:5-24:41
+INJECTED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:7:5-47
+INJECTED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:7:5-47
+	android:targetSdkVersion
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:7:15-44
+		INJECTED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:7:5-47
+		INJECTED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:9:5-80
+MERGED from [com.lzy.net:okgo:3.0.4] G:\.gradle\caches\transforms-2\files-2.1\22f9777967ca2025b1cb258d9a18eb61\okgo-3.0.4\AndroidManifest.xml:27:5-80
+MERGED from [com.lzy.net:okgo:3.0.4] G:\.gradle\caches\transforms-2\files-2.1\22f9777967ca2025b1cb258d9a18eb61\okgo-3.0.4\AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:10:5-81
+MERGED from [com.lzy.net:okgo:3.0.4] G:\.gradle\caches\transforms-2\files-2.1\22f9777967ca2025b1cb258d9a18eb61\okgo-3.0.4\AndroidManifest.xml:28:5-81
+MERGED from [com.lzy.net:okgo:3.0.4] G:\.gradle\caches\transforms-2\files-2.1\22f9777967ca2025b1cb258d9a18eb61\okgo-3.0.4\AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.lzy.net:okgo:3.0.4] G:\.gradle\caches\transforms-2\files-2.1\22f9777967ca2025b1cb258d9a18eb61\okgo-3.0.4\AndroidManifest.xml:26:5-67
+MERGED from [com.lzy.net:okgo:3.0.4] G:\.gradle\caches\transforms-2\files-2.1\22f9777967ca2025b1cb258d9a18eb61\okgo-3.0.4\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:11:22-64
+application
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:13:5-58:19
+MERGED from [com.android.support:support-v4:20.0.0] G:\.gradle\caches\transforms-2\files-2.1\1397eebbc4fd8d54cf630276e80461e8\support-v4-20.0.0\AndroidManifest.xml:17:5-19
+MERGED from [com.android.support:support-v4:20.0.0] G:\.gradle\caches\transforms-2\files-2.1\1397eebbc4fd8d54cf630276e80461e8\support-v4-20.0.0\AndroidManifest.xml:17:5-19
+	android:label
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:14:9-38
+activity#com.example.teacher.LogoActivity
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.teacher.ApplyListActivityForTeacher2
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:28:9-29:59
+	android:name
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:29:13-57
+activity#com.example.teacher.TeacherMainActivity
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:31:9-32:50
+	android:name
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:32:13-48
+activity#com.example.teacher.LoginActivity
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:33:9-34:44
+	android:name
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:34:13-42
+activity#com.example.teacher.CourseActivityForTeacher
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:37:9-62
+	android:name
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:37:19-59
+activity#com.example.teacher.ApplyListActivityForTeacher
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:40:9-41:58
+	android:name
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:41:13-56
+activity#com.example.teacher.TeacherMsgActivity
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:43:9-44:68
+	android:name
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:44:13-66
+activity#com.example.teacher.ChangePasswordActivity
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:45:9-46:72
+	android:name
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:46:13-70
+activity#com.example.teacher.StudentMsgActivity
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:48:9-49:68
+	android:name
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:49:13-66
+activity#com.example.teacher.StudentMainActivity
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:50:9-51:69
+	android:name
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:51:13-67
+activity#com.example.teacher.CourseActivityForStudent
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:52:9-53:74
+	android:name
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:53:13-72
+activity#com.example.teacher.ApplyListActivityForStudent
+ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:54:9-55:77
+	android:name
+		ADDED from D:\bishe\bishe2023\xuanke1\app\src\main\AndroidManifest.xml:55:13-75
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from [com.lzy.net:okgo:3.0.4] G:\.gradle\caches\transforms-2\files-2.1\22f9777967ca2025b1cb258d9a18eb61\okgo-3.0.4\AndroidManifest.xml:29:5-84
+	android:name
+		ADDED from [com.lzy.net:okgo:3.0.4] G:\.gradle\caches\transforms-2\files-2.1\22f9777967ca2025b1cb258d9a18eb61\okgo-3.0.4\AndroidManifest.xml:29:22-81
